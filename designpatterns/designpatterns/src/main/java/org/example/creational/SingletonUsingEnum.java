@@ -1,5 +1,6 @@
 package org.example.creational;
 
+// Singleton using Enum
 enum DLoggerEnum {
     INSTANCE;
 
